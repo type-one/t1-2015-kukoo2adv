@@ -1,0 +1,30 @@
+
+https://github.com/sebknzl/krawall
+
+Krawall
+
+Krawall is an XM/S3M Modplayer for the Gameboy Advance (GBA).
+
+It used to be a commercial product, licensed for games like "Lord of the Rings", "Spiderman", "The Sims" and others.
+
+Its main strengths is a very faithful XM/S3M-implementation and fast and high-quality mixing-routines.
+
+
+Krawall is covered by the LGPL v2.1, see COPYING for the full text.
+
+Krawall, XM/S3M Modplayer Library
+Copyright (C) 2001-2005, 2013 Sebastian Kienzl
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA

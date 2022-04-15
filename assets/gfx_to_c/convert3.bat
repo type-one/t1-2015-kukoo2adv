@@ -1,0 +1,1 @@
+gfx2gba -fsrc -M -x -pbulle_64x64.pal -t8 bulle_64x64.bmp

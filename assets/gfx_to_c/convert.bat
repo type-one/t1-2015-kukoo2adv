@@ -1,0 +1,1 @@
+gfx2gba -Z -fsrc -m -x -pPATTERN.pal -t8 PATTERN.bmp
