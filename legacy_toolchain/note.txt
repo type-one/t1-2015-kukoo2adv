@@ -1,0 +1,8 @@
+
+https://wii.leseratte10.de/devkitPro/devkitARM/r42%20(2014)/
+
+After the devkitPro team switched from Sourceforge to its own pacman package manager, it is no longer possible to download old versions of their software, as the binaries are being removed from the github release page and pacman only allows downloading the most recent one.
+
+As the devkitPro software is being released under the GPL, and the team states that redistributing verbatim copies may be done by anyone (see here), I am trying to collect as many old versions of their software and put it on this page for people to download.
+
+These old versions should not be used in order to compile new, maintained projects. In this case, the projects should be modified to support newer versions. However, in order to compile old projects which are no longer being maintained, old versions of compilers and toolchains may sometimes be needed. 
