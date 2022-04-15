@@ -13,8 +13,6 @@
  * Lesser General Public License in COPYING for more details.
  */
 
-#include "stdafx.h"
-
 #include <cstring>
 #include "Pattern.h"
 #include "Exception.h"

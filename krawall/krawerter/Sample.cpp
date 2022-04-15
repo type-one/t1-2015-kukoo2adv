@@ -13,12 +13,10 @@
  * Lesser General Public License in COPYING for more details.
  */
 
-#include "stdafx.h"
-
-
 #include <iostream>
 #include <fstream>
 #include <cmath>
+#include <cstring>
 #include "Sample.h"
 #include "Instrument.h"
 #include "Mod.h"

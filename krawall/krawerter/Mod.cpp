@@ -13,10 +13,10 @@
  * Lesser General Public License in COPYING for more details.
  */
 
-#include "stdafx.h"
-
 #include <cstdio>
+#include <cstdlib>
 #include <string>
+#include <cstring>
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -52,8 +52,7 @@ Mod::Mod( string filename, int globalVolume ) :
 	}
 
 
-	FILE *f = NULL;
-	fopen_s(&f, filename.c_str(), "rb" );
+	FILE *f = fopen( filename.c_str(), "rb" );
 	if( !f ) {
 		throw new Exception( "can't open file" );
 	}
@@ -290,7 +289,7 @@ void Mod::outputFile()
 		<< ".section .rodata" << endl << endl;
 
 	char xx[ 256 ];
-	sprintf_s( xx, 256, "LModule%02x", counter++ );
+	sprintf( xx, "LModule%02x", counter++ );
 	string dataPrefix = xx;
 
 	f << "@ song: \"" << nameSong << "\"" << endl << endl;

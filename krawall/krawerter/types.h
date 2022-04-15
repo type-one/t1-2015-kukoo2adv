@@ -16,14 +16,7 @@
 #ifndef __TYPES_H__
 #define __TYPES_H__
 
-//#include <inttypes.h>
-
-#define uint8_t unsigned __int8
-#define uint16_t unsigned __int16
-#define uint32_t unsigned __int32
-#define int8_t __int8
-#define int16_t __int16
-#define int32_t __int32
+#include <inttypes.h>
 
 typedef uint8_t u8;
 typedef uint16_t u16;
