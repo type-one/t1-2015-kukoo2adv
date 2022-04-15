@@ -1,0 +1,51 @@
+20 years of silence ... old bbs intro style.  Type One is back with this useless
+piece of code.  Started at SOTA 2002 and frozen for 12 years.  Rewritten after 
+Evoke 2014.
+
+Lot of fun doing this atari-amiga-vga-dos coding style.  No GPU, No Ghz, No 
+Multicore. Just hardware registers programming, interrupts, hardware scroller, 
+SNES like hardware sprites, multiple backgrounds.  A good therapy to be happy.
+
+Runs on real GBA/GBA SP/NDS hardware or emulators (VisualBoyAdvance)
+http://sourceforge.net/projects/vba/
+
+
+CREDITS to:
+...........
+
+Bzl/CRO for composing this great "Dance with yourself" chiptune
+Witan & their 1993 demo 'Facts of Life' for the scroller font
+Magic Fred for the green orc splash screen
+Sebastian Kienzl for the GBA Krawall XM/S3M player
+
+Unordered Greetings to groups still in my mind.  Some still active other not.
+
+Witan, CRO, PandaCube, RGBA, Aspirine, Antares, Smash Designs, Hoodlum, Orange, 
+Majic 12, Vibrants, Haujobb, Fairlight, Razor 1911, TRSI, S!P, TCB, ULM, 
+The Lost Boys, NeXT, Melon Design, Farbrausch, The Black Lotus, Bomb, TPOLM, 
+Eclipse, Imphobia, Noon, Cocoon, Oxygene, Booze Design, Alcatraz, Kefrens, 
+Triton, Kloon, Pulpe, Scoopex, Archima, The Replicants, Channel 38, Spaceballs, 
+Mahoney & Kaktus, Future Crew, Renaissance, Iguana, TRB.  
+
+Saludos to sceners met at Wired 94, SIH 95, Mekka-Symposium 96, Wired 97, 
+Wired 98, Saturne Party 98, The Party 98, SOTA 2002, SOTA 2004, Breakpoint 2010, 
+Evoke 2014 and ... Evoke 2015 !  In particular: Unix, Wizard, Scorpik, 
+Roudoudou, Nomad, Wally, Bladerunner, Cola, Z, Drealmer, PL, Rez, Made,
+Darkness, Moebius, Matt, Vatin, Access, Katana, Mesh, and my old friends Sam Le 
+Pirate and Magic Fred. 
+
+A big kiss to my wife and my little boy.
+
+Saludos to my fellow work collegues and ex-collegues.  Enjoy what you do as 
+much as I do.  Follow your passions and disconnect !
+ 
+Be crazy. Enjoy and keep the scene alive ! 
+
+
+-- Type One - TFL-TDV == 2015/07/31 at Evoke 2015 in Köln --
+
+
+
+
+
+
