@@ -35,7 +35,7 @@ make
 
 Run the GBA rom in an emulator like VisualBoyAdvance or on a real target (GBA, GBA SP, NDS)
 
-If you want to rebuild the **krawall** librery
+If you want to rebuild the **krawall** library
 ```
 cd krawall
 cd lib
